@@ -5,7 +5,7 @@ Feel free to fork my code or suggest any improvements.
 
 ### About me
 I am a full time employed Software-Developer from Germany.
-Currently I only have 2.5 years of experience and like to lear about litterly anything.
+Currently I only have 2.5 years of experience, so don't freak out when reading my code ;)
 
 ### Languages:
 - mainly Java
