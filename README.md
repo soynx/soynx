@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**soynx/soynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GitHub to just share a bit of my messy code out there.
+Feel free to fork my code or suggest any improvements.
 
-Here are some ideas to get you started:
+### About me
+I am a full time employed Software-Developer from Germany.
+Currently I only have 2.5 Jears of experience and like to lear about litterly anything.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- mainly Java
+- Python
+- C ++
+- currently learning Rust
+
+### Focus:
+- mainly Java backend stuff
+- short python-cli helpers
+- microcontroller pentesting devices
+- messing around with rust-desktop-apps
+
