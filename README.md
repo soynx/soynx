@@ -5,7 +5,7 @@ Feel free to fork my code or suggest any improvements.
 
 ### About me
 I am a full time employed Software-Developer from Germany.
-Currently I only have 2.5 Jears of experience and like to lear about litterly anything.
+Currently I only have 2.5 years of experience and like to lear about litterly anything.
 
 ### Languages:
 - mainly Java
@@ -15,6 +15,7 @@ Currently I only have 2.5 Jears of experience and like to lear about litterly an
 
 ### Focus:
 - mainly Java backend stuff
+- Minecraft Java Plugins and Mods
 - short python-cli helpers
 - microcontroller pentesting devices
 - messing around with rust-desktop-apps
